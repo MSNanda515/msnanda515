@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi there
+<a href="https://www.linkedin.com/in/msnanda"><img src="https://img.shields.io/badge/LinkedIn-Meharpreet-0E76A8?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+###About me
+My name is Meharpreet Singh Nanda, and I am a second year Computer Engineering student at the University of Alberta. 
+
+
 
 <!--
 **MSNanda515/msnanda515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
