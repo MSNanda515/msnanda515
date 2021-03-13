@@ -6,8 +6,8 @@
 My name is **Meharpreet Singh Nanda**, and I am a second year Computer Engineering student at the University of Alberta.
 
 - 🔭 I’m currently working on *Developing a web application to emulate different path finding algoritms*
-- 🌱 I’m currently learning *React*
-- 👯 I’m looking to collaborate on *React*
+- 🌱 I’m currently learning Digital Image Processing
+<!--- 👯 I’m looking to collaborate on -->
 - 🤔 I’m looking for help with *Finding Summer Internship*
 - 💬 Ask me about *Meditation*
 - 📫 How to reach me: *msnanda515@gmail.com*
