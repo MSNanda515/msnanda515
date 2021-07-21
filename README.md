@@ -5,7 +5,6 @@
 ### ABOUT ME
 Hello, My name is Mehar. I am currently pursuing an undergraduate degree in BSc Computer Engineering at the University of Alberta.
 
-<<<<<<< HEAD
 I have solid experience in the domains of Web Development, Mobile development, Robotics, and Embedded Software. I am currently learning about Neural Networks and Cloud Infrastructures. I am pretty comfortable with coding in C++, Node.Js, JavaScript, C#, Java and Python. I am passionate about writing beautiful code and developing great products. I have a strong foundation in Mathematics and Logical Problem Solving and am a master of finding and fixing bugs.
 
 I grew up with a growth mindset and try to challenge myself in every walk of life. I plan to keep giving my best efforts to reach my potential and hope to use my skills to give back to the community.
@@ -18,15 +17,6 @@ I grew up with a growth mindset and try to challenge myself in every walk of lif
 <!-- <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MSNanda515&count_private=true&theme=onedark" alt="Mehar Singh">
 </p> -->
-=======
-- 🔭 I’m currently working on *Developing a web application to emulate different path finding algoritms*
-- 🌱 I’m currently learning Digital Image Processing
-<!--- 👯 I’m looking to collaborate on -->
-- 🤔 I’m looking for help with *Finding Summer Internship*
-- 💬 Ask me about *Meditation*
-- 📫 How to reach me: *msnanda515@gmail.com*
-- ⚡ Fun fact: I know Gymnastics
->>>>>>> a4304c57009e33c72b294c368363117bb7c43d25
 
 ---  
 
@@ -71,12 +61,4 @@ I grew up with a growth mindset and try to challenge myself in every walk of lif
 &nbsp; &nbsp; 
 <a href="mailto:msnanda515@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="45" alt="eMail"></a>
 
-<<<<<<< HEAD
-
-=======
-- Embedded System Design. 
-  - I am developing an interrupt driven command handler for Cyclone V HPS.
-- Digital Image Processing using MatLab.
-- React
->>>>>>> a4304c57009e33c72b294c368363117bb7c43d25
 
