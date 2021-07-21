@@ -57,8 +57,7 @@ I grew up with a growth mindset and try to challenge myself in every walk of lif
 
 ---
 ### Connect with me
-<a href="https://www.linkedin.com/in/msnanda/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="45" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/msnanda/"><img src="https://www.svgrepo.com/show/176736/linkedin-social-media.svg" height="45" alt="LinkedIn"></a>
 &nbsp; &nbsp; 
-<a href="mailto:msnanda515@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="45" alt="eMail"></a>
-
+<a href="mailto:msnanda515@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="45" alt="eMail"></a>
 
