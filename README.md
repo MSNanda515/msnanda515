@@ -40,13 +40,40 @@ I grew up with a growth mindset and try to challenge myself in every walk of lif
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt=""/>
   <img height="45" src="" alt=""/>
 </p>
+<p>
+<img alt = "Python" src = "https://img.shields.io/badge/Code-Python-3b6878?style=for-the-badge&logo=Python"> 
+<img alt = "Java" src = "https://img.shields.io/badge/Code-Java-3b6878?style=for-the-badge&logo=java"> 
+<img alt = "Matlab" src = "https://img.shields.io/badge/Code-MatLab-3b6878?style=for-the-badge"> 
+<img alt = "VHDL" src = "https://img.shields.io/badge/Code-VHDL-3b6878?style=for-the-badge"> 
+<img alt = "Flutter" src = "https://img.shields.io/badge/Code-Flutter-3b6878?style=for-the-badge&logo=flutter"> 
+<img alt = "C" src = "https://img.shields.io/badge/Code-C-3b6878?style=for-the-badge&logo=C"> 
+<img alt = "C++" src = "https://img.shields.io/badge/Code-C++-3b6878?style=for-the-badge&logo=C++"> <img alt = "HTML" src = "https://img.shields.io/badge/Code-HTML5-3b6878?style=for-the-badge&logo=HTML5"> 
+<img alt = "C#" src = "https://img.shields.io/badge/Code-C%23-3b6878?style=for-the-badge"> <img alt = "HTML" src = "https://img.shields.io/badge/Code-HTML5-3b6878?style=for-the-badge&logo=HTML5"> 
+<img alt = "CSS" src = "https://img.shields.io/badge/Code-CSS-3b6878?style=for-the-badge&logo=CSS3"> <img alt = "JavaScript" src = "https://img.shields.io/badge/Code-javascript-3b6878?style=for-the-badge&logo=javascript"> 
+<img alt = "SQL" src = "https://img.shields.io/badge/Code-Sql-3b6878?style=for-the-badge&logo=mysql">    
+</p>
 
-<img alt = "Python" src = "https://img.shields.io/badge/Code-Python-3b6878?style=for-the-badge&logo=Python"> <img alt = "Java" src = "https://img.shields.io/badge/Code-Java-d48d8d?style=for-the-badge&logo=java"> <img alt = "Matlab" src = "https://img.shields.io/badge/Code-MatLab-8899ee?style=for-the-badge"> <img alt = "VHDL" src = "https://img.shields.io/badge/Code-VHDL-b3cde0?style=for-the-badge"> <img alt = "Flutter" src = "https://img.shields.io/badge/Code-Flutter-02569B?style=for-the-badge&logo=flutter"> <img alt = "C" src = "https://img.shields.io/badge/Code-C-A8B9CC?style=for-the-badge&logo=C"> <img alt = "C++" src = "https://img.shields.io/badge/Code-C++-d8e1b5?style=for-the-badge&logo=C++"> <img alt = "HTML" src = "https://img.shields.io/badge/Code-HTML5-E34F26?style=for-the-badge&logo=HTML5"> <img alt = "CSS" src = "https://img.shields.io/badge/Code-CSS-1572B6?style=for-the-badge&logo=CSS3"> <img alt = "JavaScript" src = "https://img.shields.io/badge/Code-javascript-F7DF1E?style=for-the-badge&logo=javascript"> <img alt = "SQL" src = "https://img.shields.io/badge/Code-Sql-4479A1?style=for-the-badge&logo=mysql">    
-
-<img alt = "Arduino" src = "https://img.shields.io/badge/Platform-Arduino-00979D?style=for-the-badge&logo=arduino"> <img alt = "STM32" src = "https://img.shields.io/badge/Platform-STM32-8899ee?style=for-the-badge"> <img alt = "Firebase" src = "https://img.shields.io/badge/Platform-firebase-FFCA28?style=for-the-badge&logo=Firebase"> 
-
-<img alt = "Android Studio" src = "https://img.shields.io/badge/Tool-android%20studio-3DDC84?style=for-the-badge&logo=android%20studio"> <img alt = "MSOffice" src = "https://img.shields.io/badge/Tool-Ms%20Office-D83B01?style=for-the-badge&logo=Microsoft%20Office"> <img alt = "Sublime" src = "https://img.shields.io/badge/Tool-Sublime%20Text-FF9800?style=for-the-badge&logo=sublime%20text"> <img alt = "VSCode" src = "https://img.shields.io/badge/Tool-VS%20CODE-007ACC?style=for-the-badge&logo=visual%20Studio%20Code"> <img alt = "GitHub" src = "https://img.shields.io/badge/Tool-Github-181717?style=for-the-badge&logo=github"> <img alt = "Git" src = "https://img.shields.io/badge/Tool-Git-F05032?style=for-the-badge&logo=git">
-
+<p>
+<img alt = "GCP" src = "https://img.shields.io/badge/Platform-Google%20Cloud-FFCA28?style=for-the-badge&logo=Google-Cloud"> 
+<img alt = "AWS" src = "https://img.shields.io/badge/Platform-AWS-FFCA28?style=for-the-badge&logo=Amazon-AWS"> 
+<img alt = "Arduino" src = "https://img.shields.io/badge/Platform-Arduino-FFCA28?style=for-the-badge&logo=arduino"> 
+<img alt = "STM32" src = "https://img.shields.io/badge/Platform-STM32-FFCA28?style=for-the-badge"> <img alt = "Firebase" src = "https://img.shields.io/badge/Platform-firebase-FFCA28?style=for-the-badge&logo=Firebase"> 
+<img alt = "Intel FPGA" src = "https://img.shields.io/badge/Platform-DE10%20SoC-FFCA28?style=for-the-badge&logo=Intel"> 
+<img alt = "Linux" src = "https://img.shields.io/badge/Platform-Linux-FFCA28?style=for-the-badge&logo=Linux">
+<img alt = "MacOs" src = "https://img.shields.io/badge/Platform-Windows-FFCA28?style=for-the-badge&logo=Windows">
+<img alt = "Windows" src = "https://img.shields.io/badge/Platform-macOS-FFCA28?style=for-the-badge&logo=macOS">
+</p>
+<p>
+ 
+<img alt = "XCode" src = "https://img.shields.io/badge/Tool-Xcode-408400?style=for-the-badge&logo=Xcode"> 
+<img alt = "Visual Studio" src = "https://img.shields.io/badge/Tool-Visual%20Studio-408400?style=for-the-badge&logo=Visual-Studio"> 
+<img alt = "Android Studio" src = "https://img.shields.io/badge/Tool-android%20studio-408400?style=for-the-badge&logo=android%20studio"> 
+<img alt = "MSOffice" src = "https://img.shields.io/badge/Tool-Ms%20Office-408400?style=for-the-badge&logo=Microsoft%20Office"> 
+<img alt = "Sublime" src = "https://img.shields.io/badge/Tool-Sublime%20Text-408400?style=for-the-badge&logo=sublime%20text"> 
+<img alt = "VSCode" src = "https://img.shields.io/badge/Tool-VS%20CODE-408400?style=for-the-badge&logo=visual%20Studio%20Code"> 
+<img alt = "GitHub" src = "https://img.shields.io/badge/Tool-Github-408400?style=for-the-badge&logo=github"> 
+<img alt = "Git" src = "https://img.shields.io/badge/Tool-Git-408400?style=for-the-badge&logo=git">
+</p>
 
 ---
 
@@ -54,6 +81,7 @@ I grew up with a growth mindset and try to challenge myself in every walk of lif
 
 - Working on developing a video chat application called Convolve using Node.Js express server, Socket&#46;io, PeerJs, WebRTC, and MongoDb.
 - Learning MVC web development using C# and ASP&#46;net
+- Learning Laravel framework to add features to the project I am working on for my internship at Clavis Studio
 
 ---
 ### Connect with me
