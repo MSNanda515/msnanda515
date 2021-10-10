@@ -79,9 +79,8 @@ I grew up with a growth mindset and try to challenge myself in every walk of lif
 
 ### What I'm learning & working on
 
+- Developing a image repository application using Java Spring boot and Angular
 - Working on developing a video chat application called Convolve using Node.Js express server, Socket&#46;io, PeerJs, WebRTC, and MongoDb.
-- Learning MVC web development using C# and ASP&#46;net
-- Learning Laravel framework to add features to the project I am working on for my internship at Clavis Studio
 
 ---
 ### Connect with me
