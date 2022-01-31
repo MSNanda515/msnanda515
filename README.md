@@ -1,24 +1,30 @@
-# Hey 🎉! I'm Mehar
+# Hey! I'm Mehar
 <a href="https://www.linkedin.com/in/msnanda"><img src="https://img.shields.io/badge/LinkedIn-Meharpreet-0E76A8?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 <a><img src = "https://img.shields.io/badge/Discord-MSN%235907-b3cde0?style=for-the-badge&logo=discord"></a>
 
-### ABOUT ME
+
 Hello, My name is Mehar. I am currently pursuing an undergraduate degree in BSc Computer Engineering at the University of Alberta.
 
-I have solid experience in the domains of Web Development, Mobile development, Robotics, and Embedded Software. I am currently learning about Neural Networks and Cloud Infrastructures. I am pretty comfortable with coding in C++, Node.Js, JavaScript, C#, Java and Python. I am passionate about writing beautiful code and developing great products. I have a strong foundation in Mathematics and Logical Problem Solving and am a master of finding and fixing bugs.
+I am interested in learning more about high-performance applications, distributed systems, and AI. 
+I have worked as a Full Stack Developer with experience in the domains of Web Development, Mobile Development, and Embedded Software. I am passionate about writing beautiful code and developing great products.
 
-I grew up with a growth mindset and try to challenge myself in every walk of life. I plan to keep giving my best efforts to reach my potential and hope to use my skills to give back to the community.
+I believe in being capable of growing to face any challenge. Giving back to the community in terms of time, money, knowledge, and resources is among my top values.
+
+<br />
+
+<!-- Stats Images -->
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MSNanda515&count_private=true&show_icons=true&locale=en&theme=dracula" alt="Mehar Singh">
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MSNanda515&count_private=true&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Mehar Singh">
 </p>
-<!-- <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MSNanda515&count_private=true&theme=onedark" alt="Mehar Singh">
-</p> -->
+
+<br />
 
 ---  
+
+<br />
 
 ### TOOLS & TECHNOLOGIES 
 <p>
@@ -74,13 +80,6 @@ I grew up with a growth mindset and try to challenge myself in every walk of lif
 <img alt = "GitHub" src = "https://img.shields.io/badge/Tool-Github-408400?style=for-the-badge&logo=github"> 
 <img alt = "Git" src = "https://img.shields.io/badge/Tool-Git-408400?style=for-the-badge&logo=git">
 </p>
-
----
-
-### What I'm learning & working on
-
-- Developing a image repository application using Java Spring boot and Angular
-- Working on developing a video chat application called Convolve using Node.Js express server, Socket&#46;io, PeerJs, WebRTC, and MongoDb.
 
 ---
 ### Connect with me
